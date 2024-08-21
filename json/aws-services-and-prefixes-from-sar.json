@@ -1,0 +1,1682 @@
+[
+  {
+    "service_name": "AWS Account Management",
+    "service_prefix": "account"
+  },
+  {
+    "service_name": "AWS Activate",
+    "service_prefix": "activate"
+  },
+  {
+    "service_name": "Alexa for Business",
+    "service_prefix": "a4b"
+  },
+  {
+    "service_name": "AmazonMediaImport",
+    "service_prefix": "mediaimport"
+  },
+  {
+    "service_name": "AWS Amplify",
+    "service_prefix": "amplify"
+  },
+  {
+    "service_name": "AWS Amplify Admin",
+    "service_prefix": "amplifybackend"
+  },
+  {
+    "service_name": "AWS Amplify UI Builder",
+    "service_prefix": "amplifyuibuilder"
+  },
+  {
+    "service_name": "Apache Kafka APIs for Amazon MSK clusters",
+    "service_prefix": "kafka-cluster"
+  },
+  {
+    "service_name": "Amazon API Gateway",
+    "service_prefix": "execute-api"
+  },
+  {
+    "service_name": "Amazon API Gateway Management",
+    "service_prefix": "apigateway"
+  },
+  {
+    "service_name": "Amazon API Gateway Management V2",
+    "service_prefix": "apigateway"
+  },
+  {
+    "service_name": "AWS App Mesh",
+    "service_prefix": "appmesh"
+  },
+  {
+    "service_name": "AWS App Mesh Preview",
+    "service_prefix": "appmesh-preview"
+  },
+  {
+    "service_name": "AWS App Runner",
+    "service_prefix": "apprunner"
+  },
+  {
+    "service_name": "AWS App Studio",
+    "service_prefix": "appstudio"
+  },
+  {
+    "service_name": "AWS App2Container",
+    "service_prefix": "a2c"
+  },
+  {
+    "service_name": "AWS AppConfig",
+    "service_prefix": "appconfig"
+  },
+  {
+    "service_name": "AWS AppFabric",
+    "service_prefix": "appfabric"
+  },
+  {
+    "service_name": "Amazon AppFlow",
+    "service_prefix": "appflow"
+  },
+  {
+    "service_name": "Amazon AppIntegrations",
+    "service_prefix": "app-integrations"
+  },
+  {
+    "service_name": "AWS Application Auto Scaling",
+    "service_prefix": "application-autoscaling"
+  },
+  {
+    "service_name": "AWS Application Cost Profiler Service",
+    "service_prefix": "application-cost-profiler"
+  },
+  {
+    "service_name": "Application Discovery Arsenal",
+    "service_prefix": "arsenal"
+  },
+  {
+    "service_name": "AWS Application Discovery Service",
+    "service_prefix": "discovery"
+  },
+  {
+    "service_name": "AWS Application Migration Service",
+    "service_prefix": "mgn"
+  },
+  {
+    "service_name": "AWS Application Transformation Service",
+    "service_prefix": "application-transformation"
+  },
+  {
+    "service_name": "Amazon AppStream 2.0",
+    "service_prefix": "appstream"
+  },
+  {
+    "service_name": "AWS AppSync",
+    "service_prefix": "appsync"
+  },
+  {
+    "service_name": "AWS Artifact",
+    "service_prefix": "artifact"
+  },
+  {
+    "service_name": "Amazon Athena",
+    "service_prefix": "athena"
+  },
+  {
+    "service_name": "AWS Audit Manager",
+    "service_prefix": "auditmanager"
+  },
+  {
+    "service_name": "AWS Auto Scaling",
+    "service_prefix": "autoscaling-plans"
+  },
+  {
+    "service_name": "AWS B2B Data Interchange",
+    "service_prefix": "b2bi"
+  },
+  {
+    "service_name": "AWS Backup",
+    "service_prefix": "backup"
+  },
+  {
+    "service_name": "AWS Backup Gateway",
+    "service_prefix": "backup-gateway"
+  },
+  {
+    "service_name": "AWS Backup storage",
+    "service_prefix": "backup-storage"
+  },
+  {
+    "service_name": "AWS Batch",
+    "service_prefix": "batch"
+  },
+  {
+    "service_name": "Amazon Bedrock",
+    "service_prefix": "bedrock"
+  },
+  {
+    "service_name": "AWS Billing",
+    "service_prefix": "billing"
+  },
+  {
+    "service_name": "AWS Billing And Cost Management Data Exports",
+    "service_prefix": "bcm-data-exports"
+  },
+  {
+    "service_name": "AWS Billing Conductor",
+    "service_prefix": "billingconductor"
+  },
+  {
+    "service_name": "AWS Billing Console",
+    "service_prefix": "aws-portal"
+  },
+  {
+    "service_name": "Amazon Braket",
+    "service_prefix": "braket"
+  },
+  {
+    "service_name": "AWS Budget Service",
+    "service_prefix": "budgets"
+  },
+  {
+    "service_name": "AWS BugBust",
+    "service_prefix": "bugbust"
+  },
+  {
+    "service_name": "AWS Certificate Manager",
+    "service_prefix": "acm"
+  },
+  {
+    "service_name": "AWS Chatbot",
+    "service_prefix": "chatbot"
+  },
+  {
+    "service_name": "Amazon Chime",
+    "service_prefix": "chime"
+  },
+  {
+    "service_name": "AWS Clean Rooms",
+    "service_prefix": "cleanrooms"
+  },
+  {
+    "service_name": "AWS Clean Rooms ML",
+    "service_prefix": "cleanrooms-ml"
+  },
+  {
+    "service_name": "AWS Cloud Control API",
+    "service_prefix": "cloudformation"
+  },
+  {
+    "service_name": "Amazon Cloud Directory",
+    "service_prefix": "clouddirectory"
+  },
+  {
+    "service_name": "AWS Cloud Map",
+    "service_prefix": "servicediscovery"
+  },
+  {
+    "service_name": "AWS Cloud9",
+    "service_prefix": "cloud9"
+  },
+  {
+    "service_name": "AWS CloudFormation",
+    "service_prefix": "cloudformation"
+  },
+  {
+    "service_name": "Amazon CloudFront",
+    "service_prefix": "cloudfront"
+  },
+  {
+    "service_name": "Amazon CloudFront KeyValueStore",
+    "service_prefix": "cloudfront-keyvaluestore"
+  },
+  {
+    "service_name": "AWS CloudHSM",
+    "service_prefix": "cloudhsm"
+  },
+  {
+    "service_name": "Amazon CloudSearch",
+    "service_prefix": "cloudsearch"
+  },
+  {
+    "service_name": "AWS CloudShell",
+    "service_prefix": "cloudshell"
+  },
+  {
+    "service_name": "AWS CloudTrail",
+    "service_prefix": "cloudtrail"
+  },
+  {
+    "service_name": "AWS CloudTrail Data",
+    "service_prefix": "cloudtrail-data"
+  },
+  {
+    "service_name": "Amazon CloudWatch",
+    "service_prefix": "cloudwatch"
+  },
+  {
+    "service_name": "Amazon CloudWatch Application Insights",
+    "service_prefix": "applicationinsights"
+  },
+  {
+    "service_name": "Amazon CloudWatch Application Signals",
+    "service_prefix": "application-signals"
+  },
+  {
+    "service_name": "Amazon CloudWatch Evidently",
+    "service_prefix": "evidently"
+  },
+  {
+    "service_name": "Amazon CloudWatch Internet Monitor",
+    "service_prefix": "internetmonitor"
+  },
+  {
+    "service_name": "Amazon CloudWatch Logs",
+    "service_prefix": "logs"
+  },
+  {
+    "service_name": "Amazon CloudWatch Network Monitor",
+    "service_prefix": "networkmonitor"
+  },
+  {
+    "service_name": "Amazon CloudWatch Observability Access Manager",
+    "service_prefix": "oam"
+  },
+  {
+    "service_name": "AWS CloudWatch RUM",
+    "service_prefix": "rum"
+  },
+  {
+    "service_name": "Amazon CloudWatch Synthetics",
+    "service_prefix": "synthetics"
+  },
+  {
+    "service_name": "AWS CodeArtifact",
+    "service_prefix": "codeartifact"
+  },
+  {
+    "service_name": "AWS CodeBuild",
+    "service_prefix": "codebuild"
+  },
+  {
+    "service_name": "Amazon CodeCatalyst",
+    "service_prefix": "codecatalyst"
+  },
+  {
+    "service_name": "AWS CodeCommit",
+    "service_prefix": "codecommit"
+  },
+  {
+    "service_name": "AWS CodeConnections",
+    "service_prefix": "codeconnections"
+  },
+  {
+    "service_name": "AWS CodeDeploy",
+    "service_prefix": "codedeploy"
+  },
+  {
+    "service_name": "AWS CodeDeploy secure host commands service",
+    "service_prefix": "codedeploy-commands-secure"
+  },
+  {
+    "service_name": "Amazon CodeGuru",
+    "service_prefix": "codeguru"
+  },
+  {
+    "service_name": "Amazon CodeGuru Profiler",
+    "service_prefix": "codeguru-profiler"
+  },
+  {
+    "service_name": "Amazon CodeGuru Reviewer",
+    "service_prefix": "codeguru-reviewer"
+  },
+  {
+    "service_name": "Amazon CodeGuru Security",
+    "service_prefix": "codeguru-security"
+  },
+  {
+    "service_name": "AWS CodePipeline",
+    "service_prefix": "codepipeline"
+  },
+  {
+    "service_name": "AWS CodeStar",
+    "service_prefix": "codestar"
+  },
+  {
+    "service_name": "AWS CodeStar Connections",
+    "service_prefix": "codestar-connections"
+  },
+  {
+    "service_name": "AWS CodeStar Notifications",
+    "service_prefix": "codestar-notifications"
+  },
+  {
+    "service_name": "Amazon CodeWhisperer",
+    "service_prefix": "codewhisperer"
+  },
+  {
+    "service_name": "Amazon Cognito Identity",
+    "service_prefix": "cognito-identity"
+  },
+  {
+    "service_name": "Amazon Cognito Sync",
+    "service_prefix": "cognito-sync"
+  },
+  {
+    "service_name": "Amazon Cognito User Pools",
+    "service_prefix": "cognito-idp"
+  },
+  {
+    "service_name": "Amazon Comprehend",
+    "service_prefix": "comprehend"
+  },
+  {
+    "service_name": "Amazon Comprehend Medical",
+    "service_prefix": "comprehendmedical"
+  },
+  {
+    "service_name": "AWS Compute Optimizer",
+    "service_prefix": "compute-optimizer"
+  },
+  {
+    "service_name": "AWS Config",
+    "service_prefix": "config"
+  },
+  {
+    "service_name": "Amazon Connect",
+    "service_prefix": "connect"
+  },
+  {
+    "service_name": "Amazon Connect Cases",
+    "service_prefix": "cases"
+  },
+  {
+    "service_name": "Amazon Connect Customer Profiles",
+    "service_prefix": "profile"
+  },
+  {
+    "service_name": "Amazon Connect Voice ID",
+    "service_prefix": "voiceid"
+  },
+  {
+    "service_name": "AWS Connector Service",
+    "service_prefix": "awsconnector"
+  },
+  {
+    "service_name": "AWS Management Console Mobile App",
+    "service_prefix": "consoleapp"
+  },
+  {
+    "service_name": "AWS Consolidated Billing",
+    "service_prefix": "consolidatedbilling"
+  },
+  {
+    "service_name": "AWS Control Catalog",
+    "service_prefix": "controlcatalog"
+  },
+  {
+    "service_name": "AWS Control Tower",
+    "service_prefix": "controltower"
+  },
+  {
+    "service_name": "AWS Cost and Usage Report",
+    "service_prefix": "cur"
+  },
+  {
+    "service_name": "AWS Cost Explorer Service",
+    "service_prefix": "ce"
+  },
+  {
+    "service_name": "AWS Cost Optimization Hub",
+    "service_prefix": "cost-optimization-hub"
+  },
+  {
+    "service_name": "AWS Customer Verification Service",
+    "service_prefix": "customer-verification"
+  },
+  {
+    "service_name": "AWS Data Exchange",
+    "service_prefix": "dataexchange"
+  },
+  {
+    "service_name": "Amazon Data Lifecycle Manager",
+    "service_prefix": "dlm"
+  },
+  {
+    "service_name": "AWS Data Pipeline",
+    "service_prefix": "datapipeline"
+  },
+  {
+    "service_name": "AWS Database Migration Service",
+    "service_prefix": "dms"
+  },
+  {
+    "service_name": "Database Query Metadata Service",
+    "service_prefix": "dbqms"
+  },
+  {
+    "service_name": "AWS DataSync",
+    "service_prefix": "datasync"
+  },
+  {
+    "service_name": "Amazon DataZone",
+    "service_prefix": "datazone"
+  },
+  {
+    "service_name": "AWS Deadline Cloud",
+    "service_prefix": "deadline"
+  },
+  {
+    "service_name": "AWS DeepComposer",
+    "service_prefix": "deepcomposer"
+  },
+  {
+    "service_name": "AWS DeepLens",
+    "service_prefix": "deeplens"
+  },
+  {
+    "service_name": "AWS DeepRacer",
+    "service_prefix": "deepracer"
+  },
+  {
+    "service_name": "Amazon Detective",
+    "service_prefix": "detective"
+  },
+  {
+    "service_name": "AWS Device Farm",
+    "service_prefix": "devicefarm"
+  },
+  {
+    "service_name": "Amazon DevOps Guru",
+    "service_prefix": "devops-guru"
+  },
+  {
+    "service_name": "AWS Diagnostic tools",
+    "service_prefix": "ts"
+  },
+  {
+    "service_name": "AWS Direct Connect",
+    "service_prefix": "directconnect"
+  },
+  {
+    "service_name": "AWS Directory Service",
+    "service_prefix": "ds"
+  },
+  {
+    "service_name": "Amazon DocumentDB Elastic Clusters",
+    "service_prefix": "docdb-elastic"
+  },
+  {
+    "service_name": "Amazon DynamoDB",
+    "service_prefix": "dynamodb"
+  },
+  {
+    "service_name": "Amazon DynamoDB Accelerator (DAX)",
+    "service_prefix": "dax"
+  },
+  {
+    "service_name": "Amazon EC2",
+    "service_prefix": "ec2"
+  },
+  {
+    "service_name": "Amazon EC2 Auto Scaling",
+    "service_prefix": "autoscaling"
+  },
+  {
+    "service_name": "Amazon EC2 Image Builder",
+    "service_prefix": "imagebuilder"
+  },
+  {
+    "service_name": "Amazon EC2 Instance Connect",
+    "service_prefix": "ec2-instance-connect"
+  },
+  {
+    "service_name": "Amazon EKS Auth",
+    "service_prefix": "eks-auth"
+  },
+  {
+    "service_name": "AWS Elastic Beanstalk",
+    "service_prefix": "elasticbeanstalk"
+  },
+  {
+    "service_name": "Amazon Elastic Block Store",
+    "service_prefix": "ebs"
+  },
+  {
+    "service_name": "Amazon Elastic Container Registry",
+    "service_prefix": "ecr"
+  },
+  {
+    "service_name": "Amazon Elastic Container Registry Public",
+    "service_prefix": "ecr-public"
+  },
+  {
+    "service_name": "Amazon Elastic Container Service",
+    "service_prefix": "ecs"
+  },
+  {
+    "service_name": "AWS Elastic Disaster Recovery",
+    "service_prefix": "drs"
+  },
+  {
+    "service_name": "Amazon Elastic File System",
+    "service_prefix": "elasticfilesystem"
+  },
+  {
+    "service_name": "Amazon Elastic Inference",
+    "service_prefix": "elastic-inference"
+  },
+  {
+    "service_name": "Amazon Elastic Kubernetes Service",
+    "service_prefix": "eks"
+  },
+  {
+    "service_name": "AWS Elastic Load Balancing",
+    "service_prefix": "elasticloadbalancing"
+  },
+  {
+    "service_name": "AWS Elastic Load Balancing V2",
+    "service_prefix": "elasticloadbalancing"
+  },
+  {
+    "service_name": "Amazon Elastic MapReduce",
+    "service_prefix": "elasticmapreduce"
+  },
+  {
+    "service_name": "Amazon Elastic Transcoder",
+    "service_prefix": "elastictranscoder"
+  },
+  {
+    "service_name": "Amazon ElastiCache",
+    "service_prefix": "elasticache"
+  },
+  {
+    "service_name": "AWS Elemental Appliances and Software",
+    "service_prefix": "elemental-appliances-software"
+  },
+  {
+    "service_name": "AWS Elemental Appliances and Software Activation Service",
+    "service_prefix": "elemental-activations"
+  },
+  {
+    "service_name": "AWS Elemental MediaConnect",
+    "service_prefix": "mediaconnect"
+  },
+  {
+    "service_name": "AWS Elemental MediaConvert",
+    "service_prefix": "mediaconvert"
+  },
+  {
+    "service_name": "AWS Elemental MediaLive",
+    "service_prefix": "medialive"
+  },
+  {
+    "service_name": "AWS Elemental MediaPackage",
+    "service_prefix": "mediapackage"
+  },
+  {
+    "service_name": "AWS Elemental MediaPackage V2",
+    "service_prefix": "mediapackagev2"
+  },
+  {
+    "service_name": "AWS Elemental MediaPackage VOD",
+    "service_prefix": "mediapackage-vod"
+  },
+  {
+    "service_name": "AWS Elemental MediaStore",
+    "service_prefix": "mediastore"
+  },
+  {
+    "service_name": "AWS Elemental MediaTailor",
+    "service_prefix": "mediatailor"
+  },
+  {
+    "service_name": "AWS Elemental Support Cases",
+    "service_prefix": "elemental-support-cases"
+  },
+  {
+    "service_name": "AWS Elemental Support Content",
+    "service_prefix": "elemental-support-content"
+  },
+  {
+    "service_name": "Amazon EMR on EKS (EMR Containers)",
+    "service_prefix": "emr-containers"
+  },
+  {
+    "service_name": "Amazon EMR Serverless",
+    "service_prefix": "emr-serverless"
+  },
+  {
+    "service_name": "AWS Entity Resolution",
+    "service_prefix": "entityresolution"
+  },
+  {
+    "service_name": "Amazon EventBridge",
+    "service_prefix": "events"
+  },
+  {
+    "service_name": "Amazon EventBridge Pipes",
+    "service_prefix": "pipes"
+  },
+  {
+    "service_name": "Amazon EventBridge Scheduler",
+    "service_prefix": "scheduler"
+  },
+  {
+    "service_name": "Amazon EventBridge Schemas",
+    "service_prefix": "schemas"
+  },
+  {
+    "service_name": "AWS Fault Injection Service",
+    "service_prefix": "fis"
+  },
+  {
+    "service_name": "Amazon FinSpace",
+    "service_prefix": "finspace"
+  },
+  {
+    "service_name": "Amazon FinSpace API",
+    "service_prefix": "finspace-api"
+  },
+  {
+    "service_name": "AWS Firewall Manager",
+    "service_prefix": "fms"
+  },
+  {
+    "service_name": "Amazon Forecast",
+    "service_prefix": "forecast"
+  },
+  {
+    "service_name": "Amazon Fraud Detector",
+    "service_prefix": "frauddetector"
+  },
+  {
+    "service_name": "AWS Free Tier",
+    "service_prefix": "freetier"
+  },
+  {
+    "service_name": "Amazon FreeRTOS",
+    "service_prefix": "freertos"
+  },
+  {
+    "service_name": "Amazon FSx",
+    "service_prefix": "fsx"
+  },
+  {
+    "service_name": "Amazon GameLift",
+    "service_prefix": "gamelift"
+  },
+  {
+    "service_name": "AWS Global Accelerator",
+    "service_prefix": "globalaccelerator"
+  },
+  {
+    "service_name": "AWS Glue",
+    "service_prefix": "glue"
+  },
+  {
+    "service_name": "AWS Glue DataBrew",
+    "service_prefix": "databrew"
+  },
+  {
+    "service_name": "AWS Ground Station",
+    "service_prefix": "groundstation"
+  },
+  {
+    "service_name": "Amazon GroundTruth Labeling",
+    "service_prefix": "groundtruthlabeling"
+  },
+  {
+    "service_name": "Amazon GuardDuty",
+    "service_prefix": "guardduty"
+  },
+  {
+    "service_name": "AWS Health APIs and Notifications",
+    "service_prefix": "health"
+  },
+  {
+    "service_name": "AWS HealthImaging",
+    "service_prefix": "medical-imaging"
+  },
+  {
+    "service_name": "AWS HealthLake",
+    "service_prefix": "healthlake"
+  },
+  {
+    "service_name": "AWS HealthOmics",
+    "service_prefix": "omics"
+  },
+  {
+    "service_name": "High-volume outbound communications",
+    "service_prefix": "connect-campaigns"
+  },
+  {
+    "service_name": "Amazon Honeycode",
+    "service_prefix": "honeycode"
+  },
+  {
+    "service_name": "AWS IAM Access Analyzer",
+    "service_prefix": "access-analyzer"
+  },
+  {
+    "service_name": "AWS IAM Identity Center (successor to AWS Single Sign-On)",
+    "service_prefix": "sso"
+  },
+  {
+    "service_name": "AWS IAM Identity Center (successor to AWS Single Sign-On) directory",
+    "service_prefix": "sso-directory"
+  },
+  {
+    "service_name": "AWS IAM Identity Center OIDC service",
+    "service_prefix": "sso-oauth"
+  },
+  {
+    "service_name": "AWS Identity and Access Management (IAM)",
+    "service_prefix": "iam"
+  },
+  {
+    "service_name": "AWS Identity and Access Management Roles Anywhere",
+    "service_prefix": "rolesanywhere"
+  },
+  {
+    "service_name": "AWS Identity Store",
+    "service_prefix": "identitystore"
+  },
+  {
+    "service_name": "AWS Identity Store Auth",
+    "service_prefix": "identitystore-auth"
+  },
+  {
+    "service_name": "AWS Identity Sync",
+    "service_prefix": "identity-sync"
+  },
+  {
+    "service_name": "AWS Import Export Disk Service",
+    "service_prefix": "importexport"
+  },
+  {
+    "service_name": "Amazon Inspector",
+    "service_prefix": "inspector"
+  },
+  {
+    "service_name": "Amazon Inspector2",
+    "service_prefix": "inspector2"
+  },
+  {
+    "service_name": "Amazon InspectorScan",
+    "service_prefix": "inspector-scan"
+  },
+  {
+    "service_name": "Amazon Interactive Video Service",
+    "service_prefix": "ivs"
+  },
+  {
+    "service_name": "Amazon Interactive Video Service Chat",
+    "service_prefix": "ivschat"
+  },
+  {
+    "service_name": "AWS Invoicing Service",
+    "service_prefix": "invoicing"
+  },
+  {
+    "service_name": "AWS IoT",
+    "service_prefix": "iot"
+  },
+  {
+    "service_name": "AWS IoT 1-Click",
+    "service_prefix": "iot1click"
+  },
+  {
+    "service_name": "AWS IoT Analytics",
+    "service_prefix": "iotanalytics"
+  },
+  {
+    "service_name": "AWS IoT Core Device Advisor",
+    "service_prefix": "iotdeviceadvisor"
+  },
+  {
+    "service_name": "AWS IoT Device Tester",
+    "service_prefix": "iot-device-tester"
+  },
+  {
+    "service_name": "AWS IoT Events",
+    "service_prefix": "iotevents"
+  },
+  {
+    "service_name": "AWS IoT Fleet Hub for Device Management",
+    "service_prefix": "iotfleethub"
+  },
+  {
+    "service_name": "AWS IoT FleetWise",
+    "service_prefix": "iotfleetwise"
+  },
+  {
+    "service_name": "AWS IoT Greengrass",
+    "service_prefix": "greengrass"
+  },
+  {
+    "service_name": "AWS IoT Greengrass V2",
+    "service_prefix": "greengrass"
+  },
+  {
+    "service_name": "AWS IoT Jobs DataPlane",
+    "service_prefix": "iotjobsdata"
+  },
+  {
+    "service_name": "AWS IoT RoboRunner",
+    "service_prefix": "iotroborunner"
+  },
+  {
+    "service_name": "AWS IoT SiteWise",
+    "service_prefix": "iotsitewise"
+  },
+  {
+    "service_name": "AWS IoT TwinMaker",
+    "service_prefix": "iottwinmaker"
+  },
+  {
+    "service_name": "AWS IoT Wireless",
+    "service_prefix": "iotwireless"
+  },
+  {
+    "service_name": "AWS IQ",
+    "service_prefix": "iq"
+  },
+  {
+    "service_name": "AWS IQ Permissions",
+    "service_prefix": "iq-permission"
+  },
+  {
+    "service_name": "Amazon Kendra",
+    "service_prefix": "kendra"
+  },
+  {
+    "service_name": "Amazon Kendra Intelligent Ranking",
+    "service_prefix": "kendra-ranking"
+  },
+  {
+    "service_name": "AWS Key Management Service",
+    "service_prefix": "kms"
+  },
+  {
+    "service_name": "Amazon Keyspaces (for Apache Cassandra)",
+    "service_prefix": "cassandra"
+  },
+  {
+    "service_name": "Amazon Kinesis Analytics",
+    "service_prefix": "kinesisanalytics"
+  },
+  {
+    "service_name": "Amazon Kinesis Analytics V2",
+    "service_prefix": "kinesisanalytics"
+  },
+  {
+    "service_name": "Amazon Kinesis Data Streams",
+    "service_prefix": "kinesis"
+  },
+  {
+    "service_name": "Amazon Kinesis Firehose",
+    "service_prefix": "firehose"
+  },
+  {
+    "service_name": "Amazon Kinesis Video Streams",
+    "service_prefix": "kinesisvideo"
+  },
+  {
+    "service_name": "AWS Lake Formation",
+    "service_prefix": "lakeformation"
+  },
+  {
+    "service_name": "AWS Lambda",
+    "service_prefix": "lambda"
+  },
+  {
+    "service_name": "AWS Launch Wizard",
+    "service_prefix": "launchwizard"
+  },
+  {
+    "service_name": "Amazon Lex",
+    "service_prefix": "lex"
+  },
+  {
+    "service_name": "Amazon Lex V2",
+    "service_prefix": "lex"
+  },
+  {
+    "service_name": "AWS License Manager",
+    "service_prefix": "license-manager"
+  },
+  {
+    "service_name": "AWS License Manager Linux Subscriptions Manager",
+    "service_prefix": "license-manager-linux-subscriptions"
+  },
+  {
+    "service_name": "AWS License Manager User Subscriptions",
+    "service_prefix": "license-manager-user-subscriptions"
+  },
+  {
+    "service_name": "Amazon Lightsail",
+    "service_prefix": "lightsail"
+  },
+  {
+    "service_name": "Amazon Location",
+    "service_prefix": "geo"
+  },
+  {
+    "service_name": "Amazon Lookout for Equipment",
+    "service_prefix": "lookoutequipment"
+  },
+  {
+    "service_name": "Amazon Lookout for Metrics",
+    "service_prefix": "lookoutmetrics"
+  },
+  {
+    "service_name": "Amazon Lookout for Vision",
+    "service_prefix": "lookoutvision"
+  },
+  {
+    "service_name": "Amazon Machine Learning",
+    "service_prefix": "machinelearning"
+  },
+  {
+    "service_name": "Amazon Macie",
+    "service_prefix": "macie2"
+  },
+  {
+    "service_name": "AWS Mainframe Modernization Application Testing provides tools and resources for automated functional equivalence testing for your migration projects.",
+    "service_prefix": "apptest"
+  },
+  {
+    "service_name": "AWS Mainframe Modernization Service",
+    "service_prefix": "m2"
+  },
+  {
+    "service_name": "Amazon Managed Blockchain",
+    "service_prefix": "managedblockchain"
+  },
+  {
+    "service_name": "Amazon Managed Blockchain Query",
+    "service_prefix": "managedblockchain-query"
+  },
+  {
+    "service_name": "Amazon Managed Grafana",
+    "service_prefix": "grafana"
+  },
+  {
+    "service_name": "Amazon Managed Service for Prometheus",
+    "service_prefix": "aps"
+  },
+  {
+    "service_name": "Amazon Managed Streaming for Apache Kafka",
+    "service_prefix": "kafka"
+  },
+  {
+    "service_name": "Amazon Managed Streaming for Kafka Connect",
+    "service_prefix": "kafkaconnect"
+  },
+  {
+    "service_name": "Amazon Managed Workflows for Apache Airflow",
+    "service_prefix": "airflow"
+  },
+  {
+    "service_name": "AWS Marketplace",
+    "service_prefix": "aws-marketplace"
+  },
+  {
+    "service_name": "AWS Marketplace Catalog",
+    "service_prefix": "aws-marketplace"
+  },
+  {
+    "service_name": "AWS Marketplace Commerce Analytics Service",
+    "service_prefix": "marketplacecommerceanalytics"
+  },
+  {
+    "service_name": "AWS Marketplace Deployment Service",
+    "service_prefix": "aws-marketplace"
+  },
+  {
+    "service_name": "AWS Marketplace Discovery",
+    "service_prefix": "aws-marketplace"
+  },
+  {
+    "service_name": "AWS Marketplace Entitlement Service",
+    "service_prefix": "aws-marketplace"
+  },
+  {
+    "service_name": "AWS Marketplace Image Building Service",
+    "service_prefix": "aws-marketplace"
+  },
+  {
+    "service_name": "AWS Marketplace Management Portal",
+    "service_prefix": "aws-marketplace-management"
+  },
+  {
+    "service_name": "AWS Marketplace Metering Service",
+    "service_prefix": "aws-marketplace"
+  },
+  {
+    "service_name": "AWS Marketplace Private Marketplace",
+    "service_prefix": "aws-marketplace"
+  },
+  {
+    "service_name": "AWS Marketplace Procurement Systems Integration",
+    "service_prefix": "aws-marketplace"
+  },
+  {
+    "service_name": "AWS Marketplace Seller Reporting",
+    "service_prefix": "aws-marketplace"
+  },
+  {
+    "service_name": "AWS Marketplace Vendor Insights",
+    "service_prefix": "vendor-insights"
+  },
+  {
+    "service_name": "Amazon Mechanical Turk",
+    "service_prefix": "mechanicalturk"
+  },
+  {
+    "service_name": "Amazon MemoryDB",
+    "service_prefix": "memorydb"
+  },
+  {
+    "service_name": "Amazon Message Delivery Service",
+    "service_prefix": "ec2messages"
+  },
+  {
+    "service_name": "Amazon Message Gateway Service",
+    "service_prefix": "ssmmessages"
+  },
+  {
+    "service_name": "AWS Microservice Extractor for .NET",
+    "service_prefix": "serviceextract"
+  },
+  {
+    "service_name": "AWS Migration Acceleration Program Credits",
+    "service_prefix": "mapcredits"
+  },
+  {
+    "service_name": "AWS Migration Hub",
+    "service_prefix": "mgh"
+  },
+  {
+    "service_name": "AWS Migration Hub Orchestrator",
+    "service_prefix": "migrationhub-orchestrator"
+  },
+  {
+    "service_name": "AWS Migration Hub Refactor Spaces",
+    "service_prefix": "refactor-spaces"
+  },
+  {
+    "service_name": "AWS Migration Hub Strategy Recommendations",
+    "service_prefix": "migrationhub-strategy"
+  },
+  {
+    "service_name": "Amazon Mobile Analytics",
+    "service_prefix": "mobileanalytics"
+  },
+  {
+    "service_name": "Amazon Monitron",
+    "service_prefix": "monitron"
+  },
+  {
+    "service_name": "Amazon MQ",
+    "service_prefix": "mq"
+  },
+  {
+    "service_name": "Amazon Neptune",
+    "service_prefix": "neptune-db"
+  },
+  {
+    "service_name": "Amazon Neptune Analytics",
+    "service_prefix": "neptune-graph"
+  },
+  {
+    "service_name": "AWS Network Firewall",
+    "service_prefix": "network-firewall"
+  },
+  {
+    "service_name": "AWS Network Manager",
+    "service_prefix": "networkmanager"
+  },
+  {
+    "service_name": "AWS Network Manager Chat",
+    "service_prefix": "networkmanager-chat"
+  },
+  {
+    "service_name": "Amazon Nimble Studio",
+    "service_prefix": "nimble"
+  },
+  {
+    "service_name": "Amazon One Enterprise",
+    "service_prefix": "one"
+  },
+  {
+    "service_name": "Amazon OpenSearch Ingestion",
+    "service_prefix": "osis"
+  },
+  {
+    "service_name": "Amazon OpenSearch Serverless",
+    "service_prefix": "aoss"
+  },
+  {
+    "service_name": "Amazon OpenSearch Service",
+    "service_prefix": "es"
+  },
+  {
+    "service_name": "AWS OpsWorks",
+    "service_prefix": "opsworks"
+  },
+  {
+    "service_name": "AWS OpsWorks Configuration Management",
+    "service_prefix": "opsworks-cm"
+  },
+  {
+    "service_name": "AWS Organizations",
+    "service_prefix": "organizations"
+  },
+  {
+    "service_name": "AWS Outposts",
+    "service_prefix": "outposts"
+  },
+  {
+    "service_name": "AWS Panorama",
+    "service_prefix": "panorama"
+  },
+  {
+    "service_name": "AWS Partner central account management",
+    "service_prefix": "partnercentral-account-management"
+  },
+  {
+    "service_name": "AWS Payment Cryptography",
+    "service_prefix": "payment-cryptography"
+  },
+  {
+    "service_name": "AWS Payments",
+    "service_prefix": "payments"
+  },
+  {
+    "service_name": "AWS Performance Insights",
+    "service_prefix": "pi"
+  },
+  {
+    "service_name": "Amazon Personalize",
+    "service_prefix": "personalize"
+  },
+  {
+    "service_name": "Amazon Pinpoint",
+    "service_prefix": "mobiletargeting"
+  },
+  {
+    "service_name": "Amazon Pinpoint Email Service",
+    "service_prefix": "ses"
+  },
+  {
+    "service_name": "Amazon Pinpoint SMS and Voice Service",
+    "service_prefix": "sms-voice"
+  },
+  {
+    "service_name": "Amazon Pinpoint SMS Voice V2",
+    "service_prefix": "sms-voice"
+  },
+  {
+    "service_name": "Amazon Polly",
+    "service_prefix": "polly"
+  },
+  {
+    "service_name": "AWS Price List",
+    "service_prefix": "pricing"
+  },
+  {
+    "service_name": "AWS Private CA Connector for Active Directory",
+    "service_prefix": "pca-connector-ad"
+  },
+  {
+    "service_name": "AWS Private CA Connector for SCEP",
+    "service_prefix": "pca-connector-scep"
+  },
+  {
+    "service_name": "AWS Private Certificate Authority",
+    "service_prefix": "acm-pca"
+  },
+  {
+    "service_name": "AWS Proton",
+    "service_prefix": "proton"
+  },
+  {
+    "service_name": "AWS Purchase Orders Console",
+    "service_prefix": "purchase-orders"
+  },
+  {
+    "service_name": "Amazon Q",
+    "service_prefix": "q"
+  },
+  {
+    "service_name": "Amazon Q Business",
+    "service_prefix": "qbusiness"
+  },
+  {
+    "service_name": "Amazon Q Business Q Apps",
+    "service_prefix": "qapps"
+  },
+  {
+    "service_name": "Amazon Q in Connect",
+    "service_prefix": "wisdom"
+  },
+  {
+    "service_name": "Amazon QLDB",
+    "service_prefix": "qldb"
+  },
+  {
+    "service_name": "Amazon QuickSight",
+    "service_prefix": "quicksight"
+  },
+  {
+    "service_name": "Amazon RDS",
+    "service_prefix": "rds"
+  },
+  {
+    "service_name": "Amazon RDS Data API",
+    "service_prefix": "rds-data"
+  },
+  {
+    "service_name": "Amazon RDS IAM Authentication",
+    "service_prefix": "rds-db"
+  },
+  {
+    "service_name": "AWS re:Post Private",
+    "service_prefix": "repostspace"
+  },
+  {
+    "service_name": "AWS Recycle Bin",
+    "service_prefix": "rbin"
+  },
+  {
+    "service_name": "Amazon Redshift",
+    "service_prefix": "redshift"
+  },
+  {
+    "service_name": "Amazon Redshift Data API",
+    "service_prefix": "redshift-data"
+  },
+  {
+    "service_name": "Amazon Redshift Serverless",
+    "service_prefix": "redshift-serverless"
+  },
+  {
+    "service_name": "Amazon Rekognition",
+    "service_prefix": "rekognition"
+  },
+  {
+    "service_name": "AWS Resilience Hub",
+    "service_prefix": "resiliencehub"
+  },
+  {
+    "service_name": "AWS Resource Access Manager (RAM)",
+    "service_prefix": "ram"
+  },
+  {
+    "service_name": "AWS Resource Explorer",
+    "service_prefix": "resource-explorer-2"
+  },
+  {
+    "service_name": "Amazon Resource Group Tagging API",
+    "service_prefix": "tag"
+  },
+  {
+    "service_name": "AWS Resource Groups",
+    "service_prefix": "resource-groups"
+  },
+  {
+    "service_name": "Amazon RHEL Knowledgebase Portal",
+    "service_prefix": "rhelkb"
+  },
+  {
+    "service_name": "AWS RoboMaker",
+    "service_prefix": "robomaker"
+  },
+  {
+    "service_name": "Amazon Route 53",
+    "service_prefix": "route53"
+  },
+  {
+    "service_name": "Amazon Route 53 Application Recovery Controller - Zonal Shift",
+    "service_prefix": "arc-zonal-shift"
+  },
+  {
+    "service_name": "Amazon Route 53 Domains",
+    "service_prefix": "route53domains"
+  },
+  {
+    "service_name": "Amazon Route 53 Profiles enables sharing DNS settings with VPCs",
+    "service_prefix": "route53profiles"
+  },
+  {
+    "service_name": "Amazon Route 53 Recovery Cluster",
+    "service_prefix": "route53-recovery-cluster"
+  },
+  {
+    "service_name": "Amazon Route 53 Recovery Controls",
+    "service_prefix": "route53-recovery-control-config"
+  },
+  {
+    "service_name": "Amazon Route 53 Recovery Readiness",
+    "service_prefix": "route53-recovery-readiness"
+  },
+  {
+    "service_name": "Amazon Route 53 Resolver",
+    "service_prefix": "route53resolver"
+  },
+  {
+    "service_name": "Amazon S3",
+    "service_prefix": "s3"
+  },
+  {
+    "service_name": "Amazon S3 Express",
+    "service_prefix": "s3express"
+  },
+  {
+    "service_name": "Amazon S3 Glacier",
+    "service_prefix": "glacier"
+  },
+  {
+    "service_name": "Amazon S3 Object Lambda",
+    "service_prefix": "s3-object-lambda"
+  },
+  {
+    "service_name": "Amazon S3 on Outposts",
+    "service_prefix": "s3-outposts"
+  },
+  {
+    "service_name": "Amazon SageMaker",
+    "service_prefix": "sagemaker"
+  },
+  {
+    "service_name": "Amazon SageMaker geospatial capabilities",
+    "service_prefix": "sagemaker-geospatial"
+  },
+  {
+    "service_name": "Amazon SageMaker Ground Truth Synthetic",
+    "service_prefix": "sagemaker-groundtruth-synthetic"
+  },
+  {
+    "service_name": "Amazon SageMaker with MLflow",
+    "service_prefix": "sagemaker-mlflow"
+  },
+  {
+    "service_name": "AWS Savings Plans",
+    "service_prefix": "savingsplans"
+  },
+  {
+    "service_name": "AWS Secrets Manager",
+    "service_prefix": "secretsmanager"
+  },
+  {
+    "service_name": "AWS Security Hub",
+    "service_prefix": "securityhub"
+  },
+  {
+    "service_name": "Amazon Security Lake",
+    "service_prefix": "securitylake"
+  },
+  {
+    "service_name": "AWS Security Token Service",
+    "service_prefix": "sts"
+  },
+  {
+    "service_name": "AWS Server Migration Service",
+    "service_prefix": "sms"
+  },
+  {
+    "service_name": "AWS Serverless Application Repository",
+    "service_prefix": "serverlessrepo"
+  },
+  {
+    "service_name": "AWS Service Catalog",
+    "service_prefix": "servicecatalog"
+  },
+  {
+    "service_name": "AWS service providing managed private networks",
+    "service_prefix": "private-networks"
+  },
+  {
+    "service_name": "Service Quotas",
+    "service_prefix": "servicequotas"
+  },
+  {
+    "service_name": "Amazon SES",
+    "service_prefix": "ses"
+  },
+  {
+    "service_name": "AWS Shield",
+    "service_prefix": "shield"
+  },
+  {
+    "service_name": "AWS Signer",
+    "service_prefix": "signer"
+  },
+  {
+    "service_name": "AWS Signin",
+    "service_prefix": "signin"
+  },
+  {
+    "service_name": "Amazon Simple Email Service - Mail Manager",
+    "service_prefix": "ses"
+  },
+  {
+    "service_name": "Amazon Simple Email Service v2",
+    "service_prefix": "ses"
+  },
+  {
+    "service_name": "Amazon Simple Workflow Service",
+    "service_prefix": "swf"
+  },
+  {
+    "service_name": "Amazon SimpleDB",
+    "service_prefix": "sdb"
+  },
+  {
+    "service_name": "AWS SimSpace Weaver",
+    "service_prefix": "simspaceweaver"
+  },
+  {
+    "service_name": "AWS Snow Device Management",
+    "service_prefix": "snow-device-management"
+  },
+  {
+    "service_name": "AWS Snowball",
+    "service_prefix": "snowball"
+  },
+  {
+    "service_name": "Amazon SNS",
+    "service_prefix": "sns"
+  },
+  {
+    "service_name": "AWS SQL Workbench",
+    "service_prefix": "sqlworkbench"
+  },
+  {
+    "service_name": "Amazon SQS",
+    "service_prefix": "sqs"
+  },
+  {
+    "service_name": "AWS Step Functions",
+    "service_prefix": "states"
+  },
+  {
+    "service_name": "AWS Storage Gateway",
+    "service_prefix": "storagegateway"
+  },
+  {
+    "service_name": "AWS Supply Chain",
+    "service_prefix": "scn"
+  },
+  {
+    "service_name": "AWS Support",
+    "service_prefix": "support"
+  },
+  {
+    "service_name": "AWS Support App in Slack",
+    "service_prefix": "supportapp"
+  },
+  {
+    "service_name": "AWS Support Plans",
+    "service_prefix": "supportplans"
+  },
+  {
+    "service_name": "AWS Support Recommendations",
+    "service_prefix": "supportrecommendations"
+  },
+  {
+    "service_name": "AWS Sustainability",
+    "service_prefix": "sustainability"
+  },
+  {
+    "service_name": "AWS Systems Manager",
+    "service_prefix": "ssm"
+  },
+  {
+    "service_name": "AWS Systems Manager for SAP",
+    "service_prefix": "ssm-sap"
+  },
+  {
+    "service_name": "AWS Systems Manager GUI Connect",
+    "service_prefix": "ssm-guiconnect"
+  },
+  {
+    "service_name": "AWS Systems Manager Incident Manager",
+    "service_prefix": "ssm-incidents"
+  },
+  {
+    "service_name": "AWS Systems Manager Incident Manager Contacts",
+    "service_prefix": "ssm-contacts"
+  },
+  {
+    "service_name": "AWS Systems Manager Quick Setup",
+    "service_prefix": "ssm-quicksetup"
+  },
+  {
+    "service_name": "Tag Editor",
+    "service_prefix": "resource-explorer"
+  },
+  {
+    "service_name": "AWS Tax Settings",
+    "service_prefix": "tax"
+  },
+  {
+    "service_name": "AWS Telco Network Builder",
+    "service_prefix": "tnb"
+  },
+  {
+    "service_name": "Amazon Textract",
+    "service_prefix": "textract"
+  },
+  {
+    "service_name": "Amazon Timestream",
+    "service_prefix": "timestream"
+  },
+  {
+    "service_name": "Amazon Timestream InfluxDB",
+    "service_prefix": "timestream-influxdb"
+  },
+  {
+    "service_name": "AWS Tiros",
+    "service_prefix": "tiros"
+  },
+  {
+    "service_name": "Amazon Transcribe",
+    "service_prefix": "transcribe"
+  },
+  {
+    "service_name": "AWS Transfer Family",
+    "service_prefix": "transfer"
+  },
+  {
+    "service_name": "Amazon Translate",
+    "service_prefix": "translate"
+  },
+  {
+    "service_name": "AWS Trusted Advisor",
+    "service_prefix": "trustedadvisor"
+  },
+  {
+    "service_name": "AWS User Notifications",
+    "service_prefix": "notifications"
+  },
+  {
+    "service_name": "AWS User Notifications Contacts",
+    "service_prefix": "notifications-contacts"
+  },
+  {
+    "service_name": "AWS User Subscriptions",
+    "service_prefix": "user-subscriptions"
+  },
+  {
+    "service_name": "AWS Verified Access",
+    "service_prefix": "verified-access"
+  },
+  {
+    "service_name": "Amazon Verified Permissions",
+    "service_prefix": "verifiedpermissions"
+  },
+  {
+    "service_name": "Amazon VPC Lattice",
+    "service_prefix": "vpc-lattice"
+  },
+  {
+    "service_name": "Amazon VPC Lattice Services",
+    "service_prefix": "vpc-lattice-svcs"
+  },
+  {
+    "service_name": "AWS WAF",
+    "service_prefix": "waf"
+  },
+  {
+    "service_name": "AWS WAF Regional",
+    "service_prefix": "waf-regional"
+  },
+  {
+    "service_name": "AWS WAF V2",
+    "service_prefix": "wafv2"
+  },
+  {
+    "service_name": "AWS Well-Architected Tool",
+    "service_prefix": "wellarchitected"
+  },
+  {
+    "service_name": "AWS Wickr",
+    "service_prefix": "wickr"
+  },
+  {
+    "service_name": "Amazon WorkDocs",
+    "service_prefix": "workdocs"
+  },
+  {
+    "service_name": "Amazon WorkLink",
+    "service_prefix": "worklink"
+  },
+  {
+    "service_name": "Amazon WorkMail",
+    "service_prefix": "workmail"
+  },
+  {
+    "service_name": "Amazon WorkMail Message Flow",
+    "service_prefix": "workmailmessageflow"
+  },
+  {
+    "service_name": "Amazon WorkSpaces",
+    "service_prefix": "workspaces"
+  },
+  {
+    "service_name": "Amazon WorkSpaces Application Manager",
+    "service_prefix": "wam"
+  },
+  {
+    "service_name": "Amazon WorkSpaces Secure Browser",
+    "service_prefix": "workspaces-web"
+  },
+  {
+    "service_name": "Amazon WorkSpaces Thin Client",
+    "service_prefix": "thinclient"
+  },
+  {
+    "service_name": "AWS X-Ray",
+    "service_prefix": "xray"
+  }
+]
